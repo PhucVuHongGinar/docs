@@ -27,6 +27,7 @@ Contents
    :maxdepth: 4
 
    introduction/index.rst
+   connecting-to-clients/index.rst
    
 
 
