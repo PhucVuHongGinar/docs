@@ -6,8 +6,13 @@
 Welcome to GINAR's documentation!
 =================================
 
-GINAR Team
-==========
+..  image:: img/GINAR_logo_gradient.png
+..   :height: 500px
+..   :width: 500px
+   :scale: 50 %
+   :alt: ginar-logo
+   :align: center
+
 
 .. toctree::
    :maxdepth: 2

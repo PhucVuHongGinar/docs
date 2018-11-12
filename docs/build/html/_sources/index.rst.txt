@@ -6,6 +6,9 @@
 Welcome to GINAR's documentation!
 =================================
 
+GINAR Team
+==========
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
