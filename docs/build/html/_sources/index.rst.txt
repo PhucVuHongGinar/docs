@@ -13,16 +13,22 @@ Welcome to GINAR's documentation!
    :alt: ginar-logo
    :align: center
 
+This documentation is the result of an ongoing collaborative effort by
+GINAR team :ref:`community`.  Although it has not been
+authorized by the :ref:`foundation`, we hope you will find it useful.
+We welcome new :ref:`contributors`. Note that sections of this guide
+may be outdated. Note that documentation in this guide that is still
+relevant could be moved to the Wiki.
+
+Contents
+===============================================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Improve the documentation
+===============================================================================
+See `this page <https://www.ginar.io/>`__ to help us improve the documentation.
