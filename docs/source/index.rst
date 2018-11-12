@@ -25,6 +25,8 @@ Contents
 
 .. toctree::
    :maxdepth: 4
+
+   introduction/index.rst
    
 
 
